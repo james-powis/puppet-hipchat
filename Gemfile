@@ -1,7 +1,7 @@
 source ENV['GEM_SOURCE'] || "https://rubygems.org"
 
 group :development, :unit_tests do
-  gem 'json',                   :require => false
+  gem 'json', "~> 1.8",         :require => false
   gem 'metadata-json-lint',     :require => false
   gem 'puppet-lint',            :require => false           
   gem 'puppet-syntax',          :require => false
