@@ -6,6 +6,7 @@
 [![Build Status](https://travis-ci.org/jamtur01/puppet-hipchat.svg?branch=master)](https://travis-ci.org/jamtur01/puppet-hipchat)
 
 ## Module Migrated
+
 NOTE: This module has been migrated to voxpupuli https://github.com/voxpupuli/puppet-report_hipchat additionally it has been renamed due to name space collision.
 
 ## Description
